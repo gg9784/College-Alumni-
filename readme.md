@@ -107,8 +107,8 @@ A full-stack web application designed to bridge the gap between current students
 
 ## 🧑‍💻 Developed By
 
-**govind**  
-B.Tech CSE, IIIT Una  
+**Govind**  
+B.Tech ECE, IIIT Una  
 Passionate about building real-world impactful applications.
 
 > ⚠️ **Disclaimer:** This project was built as part of a practicum at IIIT Una.  
